@@ -6,7 +6,7 @@ if (numberA % numberB == 0)
 }
 else
 {
-    System.Console.WriteLine("Число не кратное ");
+    System.Console.WriteLine("Число не кратное >> остаток  " + numberA % numberB );
 }
 
 
